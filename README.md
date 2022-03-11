@@ -1,5 +1,2 @@
-## Latihan1
-## Keterangan Gambar1
+## Saya Memasukan Gambar Ini
 ![poto](ss/ss1.png)
-## Keterangan Gambar2
-![poto](ss/ss2.png)
